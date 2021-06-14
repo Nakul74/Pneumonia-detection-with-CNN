@@ -1,5 +1,7 @@
 # Pneumonia-detetction-with-CNN
 
+#### Classifies whether x_ray image is of pneumonia or normal patient
+
 #### Dataset Link
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
