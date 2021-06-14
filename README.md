@@ -8,7 +8,7 @@ https://pneumonia-detection-flask-app.herokuapp.com/
 
 #### 1)Pneumonia 
 <img width="677" alt="Capture2" src="https://user-images.githubusercontent.com/43163370/121872850-619a8c80-cd23-11eb-897b-81a0cf1f77b0.PNG">
-<img width="682" alt="Capture3" src="https://user-images.githubusercontent.com/43163370/121872852-62332300-cd23-11eb-8736-6ce96cbc0847.PNG">
+<img width="667" alt="Capture8" src="https://user-images.githubusercontent.com/43163370/121874637-2a2cdf80-cd25-11eb-87d1-04e07f574bee.PNG">
 <img width="676" alt="Capture4" src="https://user-images.githubusercontent.com/43163370/121872854-62332300-cd23-11eb-86d0-6f558bf5f5b5.PNG">
 
 #### 2)Normal
